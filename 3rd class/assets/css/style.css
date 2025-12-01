@@ -1,0 +1,23 @@
+table,tr,th{
+    border: 2px;
+border:cornflowerblue ;
+    color: rgb(120, 28, 148);
+    
+}
+
+#nav ul,
+#nav li {
+    list-style: georgian;
+}
+
+#nav li {
+    list-style: none;
+    float: left;
+    display: flex;
+    margin: Spx;
+    color: blue;
+}
+#nav {
+    background-color: blueviolet;
+    width: 100%;
+    height: 100%;
